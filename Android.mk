@@ -24,6 +24,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     androidx.legacy_legacy-support-v4
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
+    libSudaPinYin \
     android-common \
     com.android.vcard \
     guava \
